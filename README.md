@@ -5,7 +5,7 @@ Prediction Scripts for eEnSa aquatic organisms
 
 ## Use
 ### Authentication
-Create a <i>configuration.json<i> file in the working directory:
+Create a <i>configuration.json</i> file in the working directory:
 
 ```
 {
