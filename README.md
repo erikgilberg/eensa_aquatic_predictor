@@ -13,7 +13,7 @@ Create a <i>configuration.json</i> file in the working directory:
     "password": "xxxxxx"
 }
 ```
-Enter your credentials accordingly.
+Enter the Model Credentials accordingly or ask your eEnSa contact.
 
 ### Predict
 
